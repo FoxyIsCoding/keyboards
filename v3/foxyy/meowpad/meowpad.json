@@ -1,0 +1,25 @@
+{
+  "name": "MeowPad",
+  "vendorId": "0x594D",
+  "productId": "0x0001",
+  "lighting": "none",
+  "matrix": {
+    "rows": 3,
+    "cols": 3
+  },
+  "layouts": {
+    "LAYOUT": {
+      "layout": [
+        {"x": 0, "y": 0},
+        {"x": 1, "y": 0},
+        {"x": 2, "y": 0},
+        {"x": 0, "y": 1},
+        {"x": 1, "y": 1},
+        {"x": 2, "y": 1},
+        {"x": 0, "y": 2},
+        {"x": 1, "y": 2},
+        {"x": 2, "y": 2}
+      ]
+    }
+  }
+}
